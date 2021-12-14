@@ -14,7 +14,7 @@
         <module>resources</module>
     </modules>
     <properties>
-        <log4j.version>2.13.1</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
     </properties>
     <dependencyManagement>
         <dependencies>
